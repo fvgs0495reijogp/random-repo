@@ -1,6 +1,6 @@
 # DropSauce extensions
 
-Extension store for [DropSauce](https://github.com/HuzaifaKhalid1311/DropSauce) (Mihon format, lib 1.6) with 128 extensions.
+Extension store for [DropSauce](https://github.com/HuzaifaKhalid1311/DropSauce) (Mihon format, lib 1.6) with 126 extensions.
 
 ## Add to DropSauce
 
@@ -144,7 +144,5 @@ with the same package names and source IDs, so existing library entries keep wor
 | WeLoveManga | ja | https://weloma.net | Mixed |
 | Wolf.com | ko | https://wfwf541.com | Mixed |
 | XCOMIC | 77 languages | https://xcomic.me | Mixed |
-| Yaoi.me | 23 languages | https://yaoi.me | 18+ |
-| YaoiScan | en | https://yaoiscan.com | Mixed |
 | Zinmanga | en | https://mangazin.org | Mixed |
 | Zinmanga.net | en | https://www.zinmanga.net |  |
