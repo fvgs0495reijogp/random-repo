@@ -219,6 +219,48 @@
         ]
       },
       {
+        "name": "Lunar Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.lunaranime-v1.6.9.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.lunaranime.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106009,
+        "versionName": "1.6.9",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5813468393870703615,
+            "name": "Lunar Manga",
+            "language": "all",
+            "homeUrl": "https://lunarx.to",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7328677245254276970,
+            "name": "Lunar Manga",
+            "language": "en",
+            "homeUrl": "https://lunarx.to",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8130073422666383933,
+            "name": "Lunar Manga",
+            "language": "id",
+            "homeUrl": "https://lunarx.to",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2848743514286834588,
+            "name": "Lunar Manga",
+            "language": "ja",
+            "homeUrl": "https://lunarx.to",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "Manga Ball",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangaball",
         "resources": {
@@ -522,6 +564,454 @@
             "name": "Manga Ball",
             "language": "zh",
             "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaDex",
+        "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.mangadex-v1.6.4.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.mangadex.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106004,
+        "versionName": "1.6.4",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 6404943692147160087,
+            "name": "MangaDex",
+            "language": "all",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4638673959522768501,
+            "name": "MangaDex",
+            "language": "af",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 987803387023224960,
+            "name": "MangaDex",
+            "language": "sq",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3339599426223341161,
+            "name": "MangaDex",
+            "language": "ar",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 9127464796236242233,
+            "name": "MangaDex",
+            "language": "az",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1553736397938752611,
+            "name": "MangaDex",
+            "language": "eu",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3601180820582582605,
+            "name": "MangaDex",
+            "language": "be",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4150470519566206911,
+            "name": "MangaDex",
+            "language": "bn",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5463447640980279236,
+            "name": "MangaDex",
+            "language": "bg",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1347402746269051958,
+            "name": "MangaDex",
+            "language": "my",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5860541308324630662,
+            "name": "MangaDex",
+            "language": "ca",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5148895169070562838,
+            "name": "MangaDex",
+            "language": "zh-Hans",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1493666528525752601,
+            "name": "MangaDex",
+            "language": "zh-Hant",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2072928884077964642,
+            "name": "MangaDex",
+            "language": "cv",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8548374501079910130,
+            "name": "MangaDex",
+            "language": "hr",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3578612018159256808,
+            "name": "MangaDex",
+            "language": "cs",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 425785191804166217,
+            "name": "MangaDex",
+            "language": "da",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6750440049024086587,
+            "name": "MangaDex",
+            "language": "nl",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2499283573021220255,
+            "name": "MangaDex",
+            "language": "en",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2819252027406613931,
+            "name": "MangaDex",
+            "language": "eo",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8773024089257004344,
+            "name": "MangaDex",
+            "language": "et",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8578871918181236609,
+            "name": "MangaDex",
+            "language": "fil",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8254121249433835847,
+            "name": "MangaDex",
+            "language": "fi",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4505830566611664829,
+            "name": "MangaDex",
+            "language": "fr",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8952567078513962586,
+            "name": "MangaDex",
+            "language": "ka",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5098537545549490547,
+            "name": "MangaDex",
+            "language": "de",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3260701926561129943,
+            "name": "MangaDex",
+            "language": "el",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1424273154577029558,
+            "name": "MangaDex",
+            "language": "he",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6840513937945146538,
+            "name": "MangaDex",
+            "language": "hi",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4284949320785450865,
+            "name": "MangaDex",
+            "language": "hu",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3686775439235747344,
+            "name": "MangaDex",
+            "language": "ga",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3807502156582598786,
+            "name": "MangaDex",
+            "language": "id",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1952071260038453057,
+            "name": "MangaDex",
+            "language": "it",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1411768577036936240,
+            "name": "MangaDex",
+            "language": "ja",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1573550798452063564,
+            "name": "MangaDex",
+            "language": "jv",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8884149958776527952,
+            "name": "MangaDex",
+            "language": "kk",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3285208643537017688,
+            "name": "MangaDex",
+            "language": "ko",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 764587568075398530,
+            "name": "MangaDex",
+            "language": "la",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 737986167355114438,
+            "name": "MangaDex",
+            "language": "lt",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1471784905273036181,
+            "name": "MangaDex",
+            "language": "ms",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5967745367608513818,
+            "name": "MangaDex",
+            "language": "mn",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 954368055061084457,
+            "name": "MangaDex",
+            "language": "ne",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4872213291993424667,
+            "name": "MangaDex",
+            "language": "no",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3781216447842245147,
+            "name": "MangaDex",
+            "language": "fa",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8033579885162383068,
+            "name": "MangaDex",
+            "language": "pl",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2655149515337070132,
+            "name": "MangaDex",
+            "language": "pt-BR",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5189216366882819742,
+            "name": "MangaDex",
+            "language": "pt",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4774459486579224459,
+            "name": "MangaDex",
+            "language": "ro",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2098905203823335614,
+            "name": "MangaDex",
+            "language": "ru",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3507378005483435886,
+            "name": "MangaDex",
+            "language": "sr",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2875503798326600410,
+            "name": "MangaDex",
+            "language": "sk",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4938773340256184018,
+            "name": "MangaDex",
+            "language": "es-419",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6400665728063187402,
+            "name": "MangaDex",
+            "language": "es",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1145824452519314725,
+            "name": "MangaDex",
+            "language": "sv",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4273071356706429527,
+            "name": "MangaDex",
+            "language": "ta",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6886894829142702925,
+            "name": "MangaDex",
+            "language": "te",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1713554459881080228,
+            "name": "MangaDex",
+            "language": "th",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3846770256925560569,
+            "name": "MangaDex",
+            "language": "tr",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5779037855201976894,
+            "name": "MangaDex",
+            "language": "uk",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 72800122520214493,
+            "name": "MangaDex",
+            "language": "ur",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2838715564514827672,
+            "name": "MangaDex",
+            "language": "uz",
+            "homeUrl": "https://mangadex.org",
+            "mirrorUrls": []
+          },
+          {
+            "id": 9194073792736219759,
+            "name": "MangaDex",
+            "language": "vi",
+            "homeUrl": "https://mangadex.org",
             "mirrorUrls": []
           }
         ]
@@ -1360,6 +1850,237 @@
         ]
       },
       {
+        "name": "MANGA Plus by SHUEISHA",
+        "packageName": "eu.kanade.tachiyomi.extension.all.mangaplus",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.mangaplus-v1.6.69.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.mangaplus.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106069,
+        "versionName": "1.6.69",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 1998944621602463790,
+            "name": "MANGA Plus by SHUEISHA",
+            "language": "en",
+            "homeUrl": "https://mangaplus.shueisha.co.jp",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1286073245950890830,
+            "name": "MANGA Plus by SHUEISHA",
+            "language": "es",
+            "homeUrl": "https://mangaplus.shueisha.co.jp",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7642759409549978864,
+            "name": "MANGA Plus by SHUEISHA",
+            "language": "fr",
+            "homeUrl": "https://mangaplus.shueisha.co.jp",
+            "mirrorUrls": []
+          },
+          {
+            "id": 932564577108614127,
+            "name": "MANGA Plus by SHUEISHA",
+            "language": "id",
+            "homeUrl": "https://mangaplus.shueisha.co.jp",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3444662672352788181,
+            "name": "MANGA Plus by SHUEISHA",
+            "language": "pt-BR",
+            "homeUrl": "https://mangaplus.shueisha.co.jp",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3520485566708512181,
+            "name": "MANGA Plus by SHUEISHA",
+            "language": "ru",
+            "homeUrl": "https://mangaplus.shueisha.co.jp",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6345211913721743017,
+            "name": "MANGA Plus by SHUEISHA",
+            "language": "th",
+            "homeUrl": "https://mangaplus.shueisha.co.jp",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4696259977267090434,
+            "name": "MANGA Plus by SHUEISHA",
+            "language": "vi",
+            "homeUrl": "https://mangaplus.shueisha.co.jp",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1893513843840146580,
+            "name": "MANGA Plus by SHUEISHA",
+            "language": "de",
+            "homeUrl": "https://mangaplus.shueisha.co.jp",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Manhuarm",
+        "packageName": "eu.kanade.tachiyomi.extension.all.manhuarm",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.manhuarm-v1.6.4.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.manhuarm.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106004,
+        "versionName": "1.6.4",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 797946349800265191,
+            "name": "Manhuarm",
+            "language": "ar",
+            "homeUrl": "https://manhuarmtl.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7690709834650404718,
+            "name": "Manhuarm",
+            "language": "en",
+            "homeUrl": "https://manhuarmtl.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8547169224512757621,
+            "name": "Manhuarm",
+            "language": "es",
+            "homeUrl": "https://manhuarmtl.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8537659881437820380,
+            "name": "Manhuarm",
+            "language": "fr",
+            "homeUrl": "https://manhuarmtl.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6421419166134585378,
+            "name": "Manhuarm",
+            "language": "id",
+            "homeUrl": "https://manhuarmtl.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7611240442736670513,
+            "name": "Manhuarm",
+            "language": "it",
+            "homeUrl": "https://manhuarmtl.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5618121635049025093,
+            "name": "Manhuarm",
+            "language": "pt-BR",
+            "homeUrl": "https://manhuarmtl.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Manta Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.all.manta",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.manta-v1.6.12.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.manta.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106012,
+        "versionName": "1.6.12",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 8753096034341798862,
+            "name": "Manta",
+            "language": "en",
+            "homeUrl": "https://manta.net/en",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2857546552946901153,
+            "name": "Manta",
+            "language": "es",
+            "homeUrl": "https://manta.net/es",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Niadd",
+        "packageName": "eu.kanade.tachiyomi.extension.all.niadd",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.niadd-v1.6.4.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.niadd.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106004,
+        "versionName": "1.6.4",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 7623485147777438032,
+            "name": "Niadd",
+            "language": "pt-BR",
+            "homeUrl": "https://br.niadd.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6237269852978906906,
+            "name": "Niadd",
+            "language": "en",
+            "homeUrl": "https://www.niadd.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1369970040009723082,
+            "name": "Niadd",
+            "language": "es",
+            "homeUrl": "https://es.niadd.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8223107200339513324,
+            "name": "Niadd",
+            "language": "it",
+            "homeUrl": "https://it.niadd.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1044418267385230402,
+            "name": "Niadd",
+            "language": "ru",
+            "homeUrl": "https://ru.niadd.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3358885026101433827,
+            "name": "Niadd",
+            "language": "de",
+            "homeUrl": "https://de.niadd.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2892666872128744723,
+            "name": "Niadd",
+            "language": "fr",
+            "homeUrl": "https://fr.niadd.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "OniSaga",
         "packageName": "eu.kanade.tachiyomi.extension.all.onisaga",
         "resources": {
@@ -1425,6 +2146,244 @@
             "name": "OniSaga",
             "language": "es",
             "homeUrl": "https://onisaga.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Project Suki",
+        "packageName": "eu.kanade.tachiyomi.extension.all.projectsuki",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.projectsuki-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.projectsuki.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 8965918600406781666,
+            "name": "Project Suki",
+            "language": "all",
+            "homeUrl": "https://projectsuki.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Swarm",
+        "packageName": "eu.kanade.tachiyomi.extension.all.swarm",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.swarm-v1.6.0.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.swarm.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106000,
+        "versionName": "1.6.0",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 7695050792030357361,
+            "name": "Swarm",
+            "language": "en",
+            "homeUrl": "https://swarm.ws",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8371905513614203015,
+            "name": "Swarm",
+            "language": "es",
+            "homeUrl": "https://swarm.ws",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8444178327069169054,
+            "name": "Swarm",
+            "language": "es-419",
+            "homeUrl": "https://swarm.ws",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6651925182941355310,
+            "name": "Swarm",
+            "language": "fr",
+            "homeUrl": "https://swarm.ws",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2526207649120912532,
+            "name": "Swarm",
+            "language": "id",
+            "homeUrl": "https://swarm.ws",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3833934207520015622,
+            "name": "Swarm",
+            "language": "ko",
+            "homeUrl": "https://swarm.ws",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7891324774646423787,
+            "name": "Swarm",
+            "language": "pl",
+            "homeUrl": "https://swarm.ws",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2379543450603951409,
+            "name": "Swarm",
+            "language": "pt-BR",
+            "homeUrl": "https://swarm.ws",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4856362822234453672,
+            "name": "Swarm",
+            "language": "ru",
+            "homeUrl": "https://swarm.ws",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1130156635017499693,
+            "name": "Swarm",
+            "language": "th",
+            "homeUrl": "https://swarm.ws",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8800126243432184157,
+            "name": "Swarm",
+            "language": "tr",
+            "homeUrl": "https://swarm.ws",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2686427454710368146,
+            "name": "Swarm",
+            "language": "vi",
+            "homeUrl": "https://swarm.ws",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4054994833878525767,
+            "name": "Swarm",
+            "language": "zh",
+            "homeUrl": "https://swarm.ws",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Tappytoon",
+        "packageName": "eu.kanade.tachiyomi.extension.all.tappytoon",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.tappytoon-v1.6.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.tappytoon.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106003,
+        "versionName": "1.6.3",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 7049142072741547166,
+            "name": "Tappytoon",
+            "language": "en",
+            "homeUrl": "https://www.tappytoon.com/en",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8311223969496865438,
+            "name": "Tappytoon",
+            "language": "fr",
+            "homeUrl": "https://www.tappytoon.com/fr",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8708489334089410870,
+            "name": "Tappytoon",
+            "language": "de",
+            "homeUrl": "https://www.tappytoon.com/de",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Toomics",
+        "packageName": "eu.kanade.tachiyomi.extension.all.toomics",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.toomics-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.toomics.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 7004582542854505662,
+            "name": "Toomics (Only free chapters)",
+            "language": "en",
+            "homeUrl": "https://global.toomics.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2191753978421234924,
+            "name": "Toomics (Only free chapters)",
+            "language": "zh-Hans",
+            "homeUrl": "https://global.toomics.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 371640888113435809,
+            "name": "Toomics (Only free chapters)",
+            "language": "zh-Hant",
+            "homeUrl": "https://global.toomics.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7362369816539610504,
+            "name": "Toomics (Only free chapters)",
+            "language": "es-419",
+            "homeUrl": "https://global.toomics.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4863693274136077953,
+            "name": "Toomics (Only free chapters)",
+            "language": "es",
+            "homeUrl": "https://global.toomics.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7652402685655897221,
+            "name": "Toomics (Only free chapters)",
+            "language": "it",
+            "homeUrl": "https://global.toomics.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4230797637510582729,
+            "name": "Toomics (Only free chapters)",
+            "language": "de",
+            "homeUrl": "https://global.toomics.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2289891939341407590,
+            "name": "Toomics (Only free chapters)",
+            "language": "fr",
+            "homeUrl": "https://global.toomics.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4488498756724948818,
+            "name": "Toomics (Only free chapters)",
+            "language": "pt-BR",
+            "homeUrl": "https://global.toomics.com",
             "mirrorUrls": []
           }
         ]
@@ -2431,6 +3390,181 @@
         ]
       },
       {
+        "name": "Yaoi.me",
+        "packageName": "eu.kanade.tachiyomi.extension.all.yaoime",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.yaoime-v1.6.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.yaoime.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106003,
+        "versionName": "1.6.3",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 3681435886557602253,
+            "name": "Yaoi.me",
+            "language": "en",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 684979558971387583,
+            "name": "Yaoi.me",
+            "language": "ja",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5795748004620209296,
+            "name": "Yaoi.me",
+            "language": "zh",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7019584478930992166,
+            "name": "Yaoi.me",
+            "language": "vi",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7082138383955241331,
+            "name": "Yaoi.me",
+            "language": "id",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8120530126288646203,
+            "name": "Yaoi.me",
+            "language": "es",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4814355377128062865,
+            "name": "Yaoi.me",
+            "language": "ko",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7744489183918674408,
+            "name": "Yaoi.me",
+            "language": "pl",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2452661550434610263,
+            "name": "Yaoi.me",
+            "language": "tr",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 9187201611611882471,
+            "name": "Yaoi.me",
+            "language": "fr",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3771454461235531869,
+            "name": "Yaoi.me",
+            "language": "it",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7848768801791608136,
+            "name": "Yaoi.me",
+            "language": "ru",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 232952896490317872,
+            "name": "Yaoi.me",
+            "language": "pt",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7877477352716506018,
+            "name": "Yaoi.me",
+            "language": "hu",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 897292737452472946,
+            "name": "Yaoi.me",
+            "language": "uk",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 440596664459681045,
+            "name": "Yaoi.me",
+            "language": "cs",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3655991679509066856,
+            "name": "Yaoi.me",
+            "language": "th",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4095510774501140142,
+            "name": "Yaoi.me",
+            "language": "ar",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5641437402179331405,
+            "name": "Yaoi.me",
+            "language": "es-419",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 418222621742506139,
+            "name": "Yaoi.me",
+            "language": "mn",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2168411991469853368,
+            "name": "Yaoi.me",
+            "language": "de",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2307425329251826653,
+            "name": "Yaoi.me",
+            "language": "fa",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          },
+          {
+            "id": 539129098615592048,
+            "name": "Yaoi.me",
+            "language": "pt-BR",
+            "homeUrl": "https://yaoi.me",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "AllManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.allanime",
         "resources": {
@@ -2447,6 +3581,27 @@
             "name": "AllManga",
             "language": "en",
             "homeUrl": "https://mkissa.to",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Aqua Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.aquamanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.aquamanga-v1.6.77.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.aquamanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106077,
+        "versionName": "1.6.77",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 626267698662819838,
+            "name": "Aqua Manga",
+            "language": "en",
+            "homeUrl": "https://aquareader.org",
             "mirrorUrls": []
           }
         ]
@@ -2494,6 +3649,48 @@
         ]
       },
       {
+        "name": "Baetoon",
+        "packageName": "eu.kanade.tachiyomi.extension.en.baetoon",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.baetoon-v1.6.0.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.baetoon.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106000,
+        "versionName": "1.6.0",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 6907136690809864188,
+            "name": "Baetoon",
+            "language": "en",
+            "homeUrl": "https://baetoon.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "BookWalker",
+        "packageName": "eu.kanade.tachiyomi.extension.en.bookwalker",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.bookwalker-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.bookwalker.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 2744810059574599668,
+            "name": "BookWalker",
+            "language": "en",
+            "homeUrl": "https://bookwalker.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "Chikari",
         "packageName": "eu.kanade.tachiyomi.extension.en.chikari",
         "resources": {
@@ -2510,6 +3707,48 @@
             "name": "Chikari",
             "language": "en",
             "homeUrl": "https://chikari.moe",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Cocomic",
+        "packageName": "eu.kanade.tachiyomi.extension.en.cocomic",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.cocomic-v1.6.63.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.cocomic.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106063,
+        "versionName": "1.6.63",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 3544369893051520689,
+            "name": "Cocomic",
+            "language": "en",
+            "homeUrl": "https://cocomic.co",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "comico.moe",
+        "packageName": "eu.kanade.tachiyomi.extension.en.comicomoe",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.comicomoe-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.comicomoe.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 3559700891137241617,
+            "name": "comico.moe",
+            "language": "en",
+            "homeUrl": "https://comico.moe",
             "mirrorUrls": []
           }
         ]
@@ -2539,6 +3778,90 @@
         ]
       },
       {
+        "name": "Coolmic",
+        "packageName": "eu.kanade.tachiyomi.extension.en.coolmic",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.coolmic-v1.6.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.coolmic.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106003,
+        "versionName": "1.6.3",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5279120461134453793,
+            "name": "Coolmic",
+            "language": "en",
+            "homeUrl": "https://coolmic.me",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Danke fürs Lesen",
+        "packageName": "eu.kanade.tachiyomi.extension.en.dankefurslesen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.dankefurslesen-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.dankefurslesen.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 370316150648855996,
+            "name": "Danke fürs Lesen",
+            "language": "en",
+            "homeUrl": "https://danke.moe",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Diva Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.divascans",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.divascans-v1.6.34.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.divascans.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106034,
+        "versionName": "1.6.34",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 3513996752712952755,
+            "name": "Diva Scans",
+            "language": "en",
+            "homeUrl": "https://divascans.org",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Dynasty Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.dynasty",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.dynasty-v1.6.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.dynasty.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106003,
+        "versionName": "1.6.3",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 669095474988166464,
+            "name": "Dynasty Scans",
+            "language": "en",
+            "homeUrl": "https://dynasty-scans.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "Flame Comics",
         "packageName": "eu.kanade.tachiyomi.extension.en.flamecomics",
         "resources": {
@@ -2555,6 +3878,195 @@
             "name": "Flame Comics",
             "language": "en",
             "homeUrl": "https://flamecomics.xyz",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "FreeManhwa",
+        "packageName": "eu.kanade.tachiyomi.extension.en.freemanhwa",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.freemanhwa-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.freemanhwa.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 5148734716557311264,
+            "name": "FreeManhwa",
+            "language": "en",
+            "homeUrl": "https://freemanhwa.net",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Fropi",
+        "packageName": "eu.kanade.tachiyomi.extension.en.fropi",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.fropi-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.fropi.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 2370228991502152715,
+            "name": "Fropi",
+            "language": "en",
+            "homeUrl": "https://fropi.net",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Goda",
+        "packageName": "eu.kanade.tachiyomi.extension.en.goda",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.goda-v1.6.4.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.goda.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106004,
+        "versionName": "1.6.4",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 4273874799952447458,
+            "name": "Goda",
+            "language": "en",
+            "homeUrl": "https://manhuascans.org",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Hachirumi",
+        "packageName": "eu.kanade.tachiyomi.extension.en.hachirumi",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.hachirumi-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.hachirumi.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 593241987912872030,
+            "name": "Hachirumi",
+            "language": "en",
+            "homeUrl": "https://hachirumi.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Hive Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.infernalvoidscans-v1.6.73.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.infernalvoidscans.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106073,
+        "versionName": "1.6.73",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 6311653253665366075,
+            "name": "Hive Scans",
+            "language": "en",
+            "homeUrl": "https://hivetoons.org",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "INKR",
+        "packageName": "eu.kanade.tachiyomi.extension.en.inkr",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.inkr-v1.6.5.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.inkr.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106005,
+        "versionName": "1.6.5",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 6949560025265725268,
+            "name": "INKR",
+            "language": "en",
+            "homeUrl": "https://comics.inkr.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "King of Shojo",
+        "packageName": "eu.kanade.tachiyomi.extension.en.kingofshojo",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.kingofshojo-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.kingofshojo.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 9153097368891994905,
+            "name": "King of Shojo",
+            "language": "en",
+            "homeUrl": "https://kingofshojo.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "K Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.kmanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.kmanga-v1.6.8.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.kmanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106008,
+        "versionName": "1.6.8",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 8143442163119480220,
+            "name": "K Manga",
+            "language": "en",
+            "homeUrl": "https://kmanga.kodansha.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Komix",
+        "packageName": "eu.kanade.tachiyomi.extension.en.komix",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.komix-v1.6.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.komix.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106003,
+        "versionName": "1.6.3",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 6862842453918709699,
+            "name": "Komix",
+            "language": "en",
+            "homeUrl": "https://komix.to",
             "mirrorUrls": []
           }
         ]
@@ -2581,6 +4093,111 @@
         ]
       },
       {
+        "name": "Lily Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.lilymanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.lilymanga-v1.6.67.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.lilymanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106067,
+        "versionName": "1.6.67",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 4480996639887718467,
+            "name": "Lily Manga",
+            "language": "en",
+            "homeUrl": "https://lilymanga.net",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "LinkManga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.linkmanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.linkmanga-v1.6.60.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.linkmanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106060,
+        "versionName": "1.6.60",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 8622937201319058235,
+            "name": "LinkManga",
+            "language": "en",
+            "homeUrl": "https://linkmanga.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Lua Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.luascans",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.luascans-v1.6.54.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.luascans.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106054,
+        "versionName": "1.6.54",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 972271455406675873,
+            "name": "Lua Scans",
+            "language": "en",
+            "homeUrl": "https://luacomic.org",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Manga-Bay",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangabay",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangabay-v1.6.5.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangabay.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106005,
+        "versionName": "1.6.5",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 2338066431666790211,
+            "name": "Manga-Bay",
+            "language": "en",
+            "homeUrl": "https://manga-bay.biz",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaBerri",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangaberri",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangaberri-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangaberri.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 1166081107443210172,
+            "name": "MangaBerri",
+            "language": "en",
+            "homeUrl": "https://mangaberri.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "MangaK",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangabuddy",
         "resources": {
@@ -2597,6 +4214,451 @@
             "name": "MangaK",
             "language": "en",
             "homeUrl": "https://mangak.io",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaCherri",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangacherri",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangacherri-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangacherri.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 9127501903906189261,
+            "name": "MangaCherri",
+            "language": "en",
+            "homeUrl": "https://mangacherri.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Mangack",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangack",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangack-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangack.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 7208855238528281651,
+            "name": "Mangack",
+            "language": "en",
+            "homeUrl": "https://mangack.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaCloud",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangacloud",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangacloud-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangacloud.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 8787213233662904706,
+            "name": "MangaCloud",
+            "language": "en",
+            "homeUrl": "https://mangacloud.org",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaDE",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangade",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangade-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangade.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 3447999145778061665,
+            "name": "MangaDE",
+            "language": "en",
+            "homeUrl": "https://mangade.io",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Manga Demon",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangademon",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangademon-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangademon.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 2900023289777642714,
+            "name": "Manga Demon",
+            "language": "en",
+            "homeUrl": "https://demonicscans.org",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaDoom",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangadoom",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangadoom-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangadoom.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 2499087959809920897,
+            "name": "MangaDoom",
+            "language": "en",
+            "homeUrl": "https://manga-doom.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaFox",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangafox",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangafox-v1.6.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangafox.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106003,
+        "versionName": "1.6.3",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 6484561431658238800,
+            "name": "MangaFox",
+            "language": "en",
+            "homeUrl": "https://fanfox.net",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Mangafreak",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangafreak",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangafreak-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangafreak.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 1201694572804778862,
+            "name": "Mangafreak",
+            "language": "en",
+            "homeUrl": "https://ww3.mangafreak.me",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaGG",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangagg",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangagg-v1.6.64.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangagg.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106064,
+        "versionName": "1.6.64",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 8173282214298911566,
+            "name": "MangaGG",
+            "language": "en",
+            "homeUrl": "https://mangagg.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Mangago",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangago",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangago-v1.6.45.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangago.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106045,
+        "versionName": "1.6.45",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 2470059397662084186,
+            "name": "Mangago",
+            "language": "en",
+            "homeUrl": "https://www.mangago.me",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaHome",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangahome",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangahome-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangahome.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 933332296024902732,
+            "name": "MangaHome",
+            "language": "en",
+            "homeUrl": "https://www.mangahome.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaHub",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangahubio",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangahubio-v1.6.51.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangahubio.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106051,
+        "versionName": "1.6.51",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 4758858684982406533,
+            "name": "MangaHub",
+            "language": "en",
+            "homeUrl": "https://mangahub.io",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaKatana",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangakatana",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangakatana-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangakatana.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 3170561626848540385,
+            "name": "MangaKatana",
+            "language": "en",
+            "homeUrl": "https://mangakatana.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaMikan",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangamikan",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangamikan-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangamikan.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 3115319529675326266,
+            "name": "MangaMikan",
+            "language": "en",
+            "homeUrl": "https://mangamikan.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Manganato",
+        "packageName": "eu.kanade.tachiyomi.extension.en.manganelo",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.manganelo-v1.6.25.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.manganelo.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106025,
+        "versionName": "1.6.25",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 1024627298672457456,
+            "name": "Manganato",
+            "language": "en",
+            "homeUrl": "https://www.natomanga.com",
+            "mirrorUrls": [
+              "https://www.natomanga.com",
+              "https://www.nelomanga.net",
+              "https://www.manganato.gg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MangaPill",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangapill",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangapill-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangapill.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 8448310129093543312,
+            "name": "MangaPill",
+            "language": "en",
+            "homeUrl": "https://mangapill.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaPlaza",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangaplaza",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangaplaza-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangaplaza.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 2236200885810873895,
+            "name": "MangaPlaza",
+            "language": "en",
+            "homeUrl": "https://mangaplaza.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaGeko",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangarawclub",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangarawclub-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangarawclub.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 734865402529567092,
+            "name": "MangaGeko",
+            "language": "en",
+            "homeUrl": "https://www.mgeko.cc",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaRead.org",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangareadorg",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangareadorg-v1.6.63.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangareadorg.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106063,
+        "versionName": "1.6.63",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 2681651342533848540,
+            "name": "MangaRead.org",
+            "language": "en",
+            "homeUrl": "https://www.mangaread.org",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Mangastash",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangastash",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangastash-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangastash.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5621160175015051314,
+            "name": "Mangastash",
+            "language": "en",
+            "homeUrl": "https://mangastash.org",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Mangasushi",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangasushi",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangasushi-v1.6.63.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangasushi.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106063,
+        "versionName": "1.6.63",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 3606721916149050760,
+            "name": "Mangasushi",
+            "language": "en",
+            "homeUrl": "https://mangasushi.org",
             "mirrorUrls": []
           }
         ]
@@ -2623,6 +4685,69 @@
         ]
       },
       {
+        "name": "Mangatown",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangatown",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangatown-v1.6.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangatown.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106003,
+        "versionName": "1.6.3",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 2703831045012166262,
+            "name": "Mangatown",
+            "language": "en",
+            "homeUrl": "https://www.mangatown.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "ManhuaBuddy",
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhuabuddy",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.manhuabuddy-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.manhuabuddy.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 1596675720892668543,
+            "name": "ManhuaBuddy",
+            "language": "en",
+            "homeUrl": "https://manhuabuddy.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "ManhuaHot",
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhuahot",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.manhuahot-v1.6.60.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.manhuahot.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106060,
+        "versionName": "1.6.60",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 7638481723868333116,
+            "name": "ManhuaHot",
+            "language": "en",
+            "homeUrl": "https://manhuahot.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "ManhuaPlus.top",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhuaplustop",
         "resources": {
@@ -2639,6 +4764,69 @@
             "name": "ManhuaPlus.top",
             "language": "en",
             "homeUrl": "https://manhuaplus.top",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "ManhuaTop",
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhuatop",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.manhuatop-v1.6.59.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.manhuatop.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106059,
+        "versionName": "1.6.59",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 1903782575226230108,
+            "name": "ManhuaTop",
+            "language": "en",
+            "homeUrl": "https://manhuatop.org",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "ManhuaUS",
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhuaus",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.manhuaus-v1.6.65.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.manhuaus.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106065,
+        "versionName": "1.6.65",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 4005973248538140146,
+            "name": "ManhuaUS",
+            "language": "en",
+            "homeUrl": "https://manhuaus.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "ManhwaNex",
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhwanex",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.manhwanex-v1.6.60.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.manhwanex.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106060,
+        "versionName": "1.6.60",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 3663840686576348637,
+            "name": "ManhwaNex",
+            "language": "en",
+            "homeUrl": "https://manhwanex.com",
             "mirrorUrls": []
           }
         ]
@@ -2665,6 +4853,237 @@
         ]
       },
       {
+        "name": "Mgread.io",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mgreadio",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mgreadio-v1.6.11.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mgreadio.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106011,
+        "versionName": "1.6.11",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 15083818169656208,
+            "name": "Mgread.io",
+            "language": "en",
+            "homeUrl": "https://mgread.io",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Nyx Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.nyxscans",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.nyxscans-v1.6.33.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.nyxscans.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106033,
+        "versionName": "1.6.33",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 419822582289753882,
+            "name": "Nyx Scans",
+            "language": "en",
+            "homeUrl": "https://nyxscans.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Omoi",
+        "packageName": "eu.kanade.tachiyomi.extension.en.azuki",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.azuki-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.azuki.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 8195282477201261072,
+            "name": "Omoi",
+            "language": "en",
+            "homeUrl": "https://www.omoi.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "OriYami",
+        "packageName": "eu.kanade.tachiyomi.extension.en.oriyami",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.oriyami-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.oriyami.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 3786594066286839843,
+            "name": "OriYami",
+            "language": "en",
+            "homeUrl": "https://oriyami.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "ReadManga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.readmangacc",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.readmangacc-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.readmangacc.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 6209471663717609550,
+            "name": "ReadManga",
+            "language": "en",
+            "homeUrl": "https://readmanga.cc",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "ReiManga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.reimanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.reimanga-v1.6.10.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.reimanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106010,
+        "versionName": "1.6.10",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5627909338430537186,
+            "name": "ReiManga",
+            "language": "en",
+            "homeUrl": "https://reimanga.net",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "RokariComics",
+        "packageName": "eu.kanade.tachiyomi.extension.en.rokaricomics",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.rokaricomics-v1.6.7.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.rokaricomics.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106007,
+        "versionName": "1.6.7",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 830150807344972132,
+            "name": "RokariComics",
+            "language": "en",
+            "homeUrl": "https://rokaricomics.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "SilentQuill",
+        "packageName": "eu.kanade.tachiyomi.extension.en.armageddon",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.armageddon-v1.6.4.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.armageddon.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106004,
+        "versionName": "1.6.4",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 3696994059835859589,
+            "name": "SilentQuill",
+            "language": "en",
+            "homeUrl": "https://silentquill.net",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Tapas",
+        "packageName": "eu.kanade.tachiyomi.extension.en.tapastic",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.tapastic-v1.6.6.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.tapastic.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106006,
+        "versionName": "1.6.6",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5554748812413853237,
+            "name": "Tapas",
+            "language": "en",
+            "homeUrl": "https://tapas.io",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Temple Scan",
+        "packageName": "eu.kanade.tachiyomi.extension.en.templescan",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.templescan-v1.6.70.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.templescan.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106070,
+        "versionName": "1.6.70",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 4210732525216763379,
+            "name": "Temple Scan",
+            "language": "en",
+            "homeUrl": "https://templetoons.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "TodayManga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.todaymanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.todaymanga-v1.6.5.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.todaymanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106005,
+        "versionName": "1.6.5",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 1147556681248758139,
+            "name": "TodayManga",
+            "language": "en",
+            "homeUrl": "https://todaymanga.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "Toon18x",
         "packageName": "eu.kanade.tachiyomi.extension.en.toon18x",
         "resources": {
@@ -2686,6 +5105,27 @@
         ]
       },
       {
+        "name": "Toonily",
+        "packageName": "eu.kanade.tachiyomi.extension.en.toonily",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.toonily-v1.6.79.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.toonily.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106079,
+        "versionName": "1.6.79",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5190569675461947007,
+            "name": "Toonily",
+            "language": "en",
+            "homeUrl": "https://toonily.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "Toonkotsu",
         "packageName": "eu.kanade.tachiyomi.extension.en.toonkotsu",
         "resources": {
@@ -2702,6 +5142,86 @@
             "name": "Toonkotsu",
             "language": "en",
             "homeUrl": "https://toonkotsu.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Toonz/Toonx",
+        "packageName": "eu.kanade.tachiyomi.extension.en.toonz",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.toonz-v1.6.7.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.toonz.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106007,
+        "versionName": "1.6.7",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 225310046014902430,
+            "name": "Toonz",
+            "language": "en",
+            "homeUrl": "https://toonz.to",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3603837449597882885,
+            "name": "Toonx",
+            "language": "en",
+            "homeUrl": "https://toonx.to",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3627030858599443012,
+            "name": "LewdManhwa",
+            "language": "en",
+            "homeUrl": "https://lewdmanhwa.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "VyvyManga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.vyvymanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.vyvymanga-v1.6.47.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.vyvymanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106047,
+        "versionName": "1.6.47",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 6958928548959982041,
+            "name": "VyvyManga",
+            "language": "en",
+            "homeUrl": "https://mangavyvy.net",
+            "mirrorUrls": [
+              "https://mangavyvy.net",
+              "https://mangavyvy.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Webnex",
+        "packageName": "eu.kanade.tachiyomi.extension.en.webnex",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.webnex-v1.6.12.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.webnex.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106012,
+        "versionName": "1.6.12",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 319678837350572744,
+            "name": "Webnex",
+            "language": "en",
+            "homeUrl": "https://webnex.cc",
             "mirrorUrls": []
           }
         ]
@@ -2745,6 +5265,657 @@
             "language": "en",
             "homeUrl": "https://weebcentral.com",
             "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "YaoiScan",
+        "packageName": "eu.kanade.tachiyomi.extension.en.yaoiscan",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.yaoiscan-v1.6.60.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.yaoiscan.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106060,
+        "versionName": "1.6.60",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 4439807782838127935,
+            "name": "YaoiScan",
+            "language": "en",
+            "homeUrl": "https://yaoiscan.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Zinmanga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.zinmanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.zinmanga-v1.6.63.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.zinmanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106063,
+        "versionName": "1.6.63",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5990114708086767078,
+            "name": "Zinmanga",
+            "language": "en",
+            "homeUrl": "https://mangazin.org",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Zinmanga.net",
+        "packageName": "eu.kanade.tachiyomi.extension.en.zinmanganet",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.zinmanganet-v1.6.63.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.zinmanganet.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106063,
+        "versionName": "1.6.63",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 1987105317893699901,
+            "name": "Zinmanga.net",
+            "language": "en",
+            "homeUrl": "https://www.zinmanga.net",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Mangakawaii",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-fr.mangakawaii-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.fr.mangakawaii.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 1384625280015637699,
+            "name": "Mangakawaii",
+            "language": "fr",
+            "homeUrl": "https://www.mangakawaii.fr",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Klto9",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.klto9",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.klto9-v1.6.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.klto9.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106003,
+        "versionName": "1.6.3",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 3136857802804349121,
+            "name": "Klto9",
+            "language": "ja",
+            "homeUrl": "https://klto9.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Manga1000",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.manga1000",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.manga1000-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.manga1000.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 2990178902658283254,
+            "name": "Manga1000",
+            "language": "ja",
+            "homeUrl": "https://hachiraw.win",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaRaw4u",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.mangaraw4u",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.mangaraw4u-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.mangaraw4u.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 2090491127969130802,
+            "name": "MangaRaw4u",
+            "language": "ja",
+            "homeUrl": "https://mangaraw4u.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Mangaraw.best",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.mangarawbest",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.mangarawbest-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.mangarawbest.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5626323664838879030,
+            "name": "Mangaraw.best",
+            "language": "ja",
+            "homeUrl": "https://mangaraw.best",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Nicomanga",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.nicomanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.nicomanga-v1.6.16.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.nicomanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106016,
+        "versionName": "1.6.16",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5680590515266301834,
+            "name": "Nicomanga",
+            "language": "ja",
+            "homeUrl": "https://nicomanga.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "NihonKuni",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.mangagun",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.mangagun-v1.6.4.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.mangagun.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106004,
+        "versionName": "1.6.4",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 3811800324362294701,
+            "name": "NihonKuni",
+            "language": "ja",
+            "homeUrl": "https://nihonkuni.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Pixiv Comic",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.pixivcomic",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.pixivcomic-v1.6.8.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.pixivcomic.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106008,
+        "versionName": "1.6.8",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 2937751339618832603,
+            "name": "Pixivコミック",
+            "language": "ja",
+            "homeUrl": "https://comic.pixiv.net",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Raw1001",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.raw1001",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.raw1001-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.raw1001.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 3349575794425308347,
+            "name": "Raw1001",
+            "language": "ja",
+            "homeUrl": "https://raw1001.net",
+            "mirrorUrls": [
+              "https://raw1001.net",
+              "https://rawkuro.net"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rawdevart.art",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.rawdevartart",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.rawdevartart-v1.6.6.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.rawdevartart.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106006,
+        "versionName": "1.6.6",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 3401714773439070137,
+            "name": "Rawdevart.art",
+            "language": "ja",
+            "homeUrl": "https://rawdevart.art",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Rawkuma",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.rawkuma",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.rawkuma-v1.6.44.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.rawkuma.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106044,
+        "versionName": "1.6.44",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5746834068092446709,
+            "name": "Rawkuma",
+            "language": "ja",
+            "homeUrl": "https://rawkuma.net",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "RawLazy",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.rawlazy",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.rawlazy-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.rawlazy.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 688727597644760193,
+            "name": "RawLazy",
+            "language": "ja",
+            "homeUrl": "https://rawlazy.io",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "WeLoveManga",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.rawlh",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.rawlh-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.rawlh.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 7595224096258102519,
+            "name": "WeLoveManga",
+            "language": "ja",
+            "homeUrl": "https://weloma.net",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Raw Otaku",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.rawotaku",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.rawotaku-v1.6.6.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.rawotaku.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106006,
+        "versionName": "1.6.6",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 7370546749583817262,
+            "name": "Raw Otaku",
+            "language": "ja",
+            "homeUrl": "https://rawotaku.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "RawSakura",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.rawsakura",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.rawsakura-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.rawsakura.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 3101702738832986286,
+            "name": "RawSakura",
+            "language": "ja",
+            "homeUrl": "https://rawsakura.org",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Sen Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.senmanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ja.senmanga-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ja.senmanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 7715542271185249444,
+            "name": "Sen Manga",
+            "language": "ja",
+            "homeUrl": "https://raw.senmanga.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "BlackToon",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.blacktoon",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ko.blacktoon-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ko.blacktoon.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 7080800841003944426,
+            "name": "블랙툰",
+            "language": "ko",
+            "homeUrl": "https://blacktoon426.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Funbe",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.funbe",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ko.funbe-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ko.funbe.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 599060369613900466,
+            "name": "Funbe",
+            "language": "ko",
+            "homeUrl": "https://008.funbe.org",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "GoodToon",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.goodtoon",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ko.goodtoon-v1.6.64.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ko.goodtoon.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106064,
+        "versionName": "1.6.64",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 2738031143723682744,
+            "name": "GoodToon",
+            "language": "ko",
+            "homeUrl": "https://www.goodtoon010.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Jjaptoon",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.jjaptoon",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ko.jjaptoon-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ko.jjaptoon.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 6220307967993008309,
+            "name": "짭툰",
+            "language": "ko",
+            "homeUrl": "https://www.jjaptoon008.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "PandaToons",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.pandatoons",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ko.pandatoons-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ko.pandatoons.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5549546483135185817,
+            "name": "PandaToons",
+            "language": "ko",
+            "homeUrl": "https://pandatoons.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Newtoki (SBXH)",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.sbxh",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ko.sbxh-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ko.sbxh.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5836877907605844302,
+            "name": "Newtoki (SBXH)",
+            "language": "ko",
+            "homeUrl": "https://sbxh9.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Toonkor",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.toonkor",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ko.toonkor-v1.6.13.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ko.toonkor.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106013,
+        "versionName": "1.6.13",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 6596496791271983268,
+            "name": "Toonkor",
+            "language": "ko",
+            "homeUrl": "https://toonkor0.org",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Wolf.com",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.wolfdotcom",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-ko.wolfdotcom-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.ko.wolfdotcom.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5583626852311652499,
+            "name": "늑대닷컴 - 웹툰",
+            "language": "ko",
+            "homeUrl": "https://wfwf541.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7074060458114951398,
+            "name": "늑대닷컴 - 만화책",
+            "language": "ko",
+            "homeUrl": "https://wfwf541.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4225505094399546613,
+            "name": "늑대닷컴 - 포토툰",
+            "language": "ko",
+            "homeUrl": "https://wfwf541.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Baozi Manhua",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-zh.baozimanhua-v1.6.33.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.zh.baozimanhua.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106033,
+        "versionName": "1.6.33",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 5724751873601868259,
+            "name": "包子漫画",
+            "language": "zh",
+            "homeUrl": "https://cn.baozimh.com",
+            "mirrorUrls": [
+              "https://cn.baozimh.com",
+              "https://tw.baozimh.com",
+              "https://www.baozimh.com",
+              "https://cn.webmota.com",
+              "https://tw.webmota.com",
+              "https://www.webmota.com",
+              "https://cn.kukuc.co",
+              "https://tw.kukuc.co",
+              "https://www.kukuc.co",
+              "https://cn.twmanga.com",
+              "https://tw.twmanga.com",
+              "https://www.twmanga.com",
+              "https://cn.dinnerku.com",
+              "https://tw.dinnerku.com",
+              "https://www.dinnerku.com",
+              "https://appcn.baozimh.com",
+              "https://appgb.baozimh.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "GoDa",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.baozimhorg",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-zh.baozimhorg-v1.6.39.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.zh.baozimhorg.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106039,
+        "versionName": "1.6.39",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 774030471139699415,
+            "name": "GoDa漫画",
+            "language": "zh",
+            "homeUrl": "https://baozimh.org",
+            "mirrorUrls": [
+              "https://baozimh.org",
+              "https://godamh.com",
+              "https://m.baozimh.one",
+              "https://bzmh.org",
+              "https://g-mh.org",
+              "https://m.g-mh.org"
+            ]
           }
         ]
       }
