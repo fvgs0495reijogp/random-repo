@@ -1,6 +1,8 @@
 {
   "meta": {
     "name": "DropSauce Extras",
-    "signingKeyFingerprint": "837304fd92f8b2ff1a8a7f7cc7d25309fc620043ad2b3d95bfbbb39e95149e3a"
-  }
+    "signingKeyFingerprint": "837304fd92f8b2ff1a8a7f7cc7d25309fc620043ad2b3d95bfbbb39e95149e3a",
+    "website": "https://github.com/fvgs0495reijogp/random-repo"
+  },
+  "index_v2": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/index.json"
 }

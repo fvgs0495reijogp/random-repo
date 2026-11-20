@@ -1,0 +1,2753 @@
+{
+  "name": "DropSauce Extras",
+  "badgeLabel": "DSX",
+  "signingKey": "837304fd92f8b2ff1a8a7f7cc7d25309fc620043ad2b3d95bfbbb39e95149e3a",
+  "contact": {
+    "website": "https://github.com/fvgs0495reijogp/random-repo"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Cubari",
+        "packageName": "eu.kanade.tachiyomi.extension.all.cubari",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.cubari-v1.6.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.cubari.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106003,
+        "versionName": "1.6.3",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 6338219619148105941,
+            "name": "Cubari",
+            "language": "en",
+            "homeUrl": "https://cubari.moe",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1470847599087460255,
+            "name": "Cubari",
+            "language": "all",
+            "homeUrl": "https://cubari.moe",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2013845246758512290,
+            "name": "Cubari",
+            "language": "other",
+            "homeUrl": "https://cubari.moe",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Kagane",
+        "packageName": "eu.kanade.tachiyomi.extension.all.kagane",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.kagane-v1.6.42.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.kagane.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106042,
+        "versionName": "1.6.42",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 4024736764982024684,
+            "name": "Kagane",
+            "language": "en",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 1157710231944574609,
+            "name": "Kagane",
+            "language": "ja",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 1720654391539317254,
+            "name": "Kagane",
+            "language": "ko",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 538178062602483073,
+            "name": "Kagane",
+            "language": "zh",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 6291099060619088371,
+            "name": "Kagane",
+            "language": "es",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 3249170492103400191,
+            "name": "Kagane",
+            "language": "es-419",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 6053574930456302165,
+            "name": "Kagane",
+            "language": "fr",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 253007717341293260,
+            "name": "Kagane",
+            "language": "de",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 3281832279225761326,
+            "name": "Kagane",
+            "language": "pt",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 8929946374100381402,
+            "name": "Kagane",
+            "language": "pt-BR",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 8751507648303673848,
+            "name": "Kagane",
+            "language": "ru",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 1471532184931679941,
+            "name": "Kagane",
+            "language": "it",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 7702420917357144001,
+            "name": "Kagane",
+            "language": "id",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 8791972639916297003,
+            "name": "Kagane",
+            "language": "vi",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 2006734767320263070,
+            "name": "Kagane",
+            "language": "th",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 1008382500205235233,
+            "name": "Kagane",
+            "language": "pl",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 9016992318016575502,
+            "name": "Kagane",
+            "language": "hi",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          },
+          {
+            "id": 7861921616625741963,
+            "name": "Kagane",
+            "language": "ar",
+            "homeUrl": "https://kagane.moe",
+            "mirrorUrls": [
+              "https://kagane.moe"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Manga Ball",
+        "packageName": "eu.kanade.tachiyomi.extension.all.mangaball",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.mangaball-v1.6.7.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.mangaball.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106007,
+        "versionName": "1.6.7",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5763592680824441822,
+            "name": "Manga Ball",
+            "language": "ar",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8745608410209813897,
+            "name": "Manga Ball",
+            "language": "bg",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 215476983335793342,
+            "name": "Manga Ball",
+            "language": "bn",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 9084885867242726177,
+            "name": "Manga Ball",
+            "language": "ca",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7169636154814402936,
+            "name": "Manga Ball",
+            "language": "cs",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3523848676838462162,
+            "name": "Manga Ball",
+            "language": "da",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1966498126669070992,
+            "name": "Manga Ball",
+            "language": "de",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5586454452949519981,
+            "name": "Manga Ball",
+            "language": "el",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1448906013733277368,
+            "name": "Manga Ball",
+            "language": "en",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2111498029521981284,
+            "name": "Manga Ball",
+            "language": "es",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5041529786391483797,
+            "name": "Manga Ball",
+            "language": "fa",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5403969342368317365,
+            "name": "Manga Ball",
+            "language": "fi",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4804845656972446863,
+            "name": "Manga Ball",
+            "language": "fr",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2439898977058946574,
+            "name": "Manga Ball",
+            "language": "he",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3325308670866777803,
+            "name": "Manga Ball",
+            "language": "hi",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 34408487862399605,
+            "name": "Manga Ball",
+            "language": "hu",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2825403839562372201,
+            "name": "Manga Ball",
+            "language": "id",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3556430745170330371,
+            "name": "Manga Ball",
+            "language": "it",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7073775592097997189,
+            "name": "Manga Ball",
+            "language": "is",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3534664804437641640,
+            "name": "Manga Ball",
+            "language": "ja",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6595061459576629533,
+            "name": "Manga Ball",
+            "language": "ko",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8772354233322170397,
+            "name": "Manga Ball",
+            "language": "kn",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4574102257618973368,
+            "name": "Manga Ball",
+            "language": "ml",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8221555371810647857,
+            "name": "Manga Ball",
+            "language": "ms",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 615885128031081811,
+            "name": "Manga Ball",
+            "language": "ne",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5484157652338210397,
+            "name": "Manga Ball",
+            "language": "nl",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3777339391626194173,
+            "name": "Manga Ball",
+            "language": "no",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5768573366655393544,
+            "name": "Manga Ball",
+            "language": "pl",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 35546023386335815,
+            "name": "Manga Ball",
+            "language": "pt-BR",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3357030332736127152,
+            "name": "Manga Ball",
+            "language": "ro",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7203647082681930008,
+            "name": "Manga Ball",
+            "language": "ru",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8131533018433339643,
+            "name": "Manga Ball",
+            "language": "sk",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1966275254426034210,
+            "name": "Manga Ball",
+            "language": "sl",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7985165645382797194,
+            "name": "Manga Ball",
+            "language": "sq",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4654428466578189678,
+            "name": "Manga Ball",
+            "language": "sr",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4940984854904039527,
+            "name": "Manga Ball",
+            "language": "sv",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1133911619191823359,
+            "name": "Manga Ball",
+            "language": "ta",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6778483817278233868,
+            "name": "Manga Ball",
+            "language": "th",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8648105733020574748,
+            "name": "Manga Ball",
+            "language": "tr",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6193642890428176406,
+            "name": "Manga Ball",
+            "language": "uk",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 117702463567484484,
+            "name": "Manga Ball",
+            "language": "vi",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1555837267200004397,
+            "name": "Manga Ball",
+            "language": "zh",
+            "homeUrl": "https://mangaball.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaDot",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangadotnet-v1.6.30.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangadotnet.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106030,
+        "versionName": "1.6.30",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5133570518916566066,
+            "name": "MangaDot",
+            "language": "ar",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4728703871864086205,
+            "name": "MangaDot",
+            "language": "bn",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4621039982977056475,
+            "name": "MangaDot",
+            "language": "bg",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8689086897953658974,
+            "name": "MangaDot",
+            "language": "my",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4593442970144109426,
+            "name": "MangaDot",
+            "language": "zh",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2076066796458496830,
+            "name": "MangaDot",
+            "language": "zh-Hant",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 182506561627032263,
+            "name": "MangaDot",
+            "language": "cs",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 522919629093846860,
+            "name": "MangaDot",
+            "language": "da",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5339181991315919474,
+            "name": "MangaDot",
+            "language": "nl",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5900936305360403385,
+            "name": "MangaDot",
+            "language": "en",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5536176722691621839,
+            "name": "MangaDot",
+            "language": "tl",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7568879765052968178,
+            "name": "MangaDot",
+            "language": "fi",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6544312035114371248,
+            "name": "MangaDot",
+            "language": "fr",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7781185259229560796,
+            "name": "MangaDot",
+            "language": "ka",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1739134904773959471,
+            "name": "MangaDot",
+            "language": "de",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6280808899001059050,
+            "name": "MangaDot",
+            "language": "el",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7524478288761759786,
+            "name": "MangaDot",
+            "language": "he",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4686432307246610016,
+            "name": "MangaDot",
+            "language": "hi",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2744567066632059507,
+            "name": "MangaDot",
+            "language": "hu",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8591108444263884327,
+            "name": "MangaDot",
+            "language": "id",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8788147393700258423,
+            "name": "MangaDot",
+            "language": "it",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2305771977147956314,
+            "name": "MangaDot",
+            "language": "ja",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8733946525904795862,
+            "name": "MangaDot",
+            "language": "ko",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5980076819966447323,
+            "name": "MangaDot",
+            "language": "la",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3456620422576095825,
+            "name": "MangaDot",
+            "language": "lt",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2379671138411944871,
+            "name": "MangaDot",
+            "language": "ms",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 9192319104809604483,
+            "name": "MangaDot",
+            "language": "mn",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2111970709663576933,
+            "name": "MangaDot",
+            "language": "no",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6840185760082019759,
+            "name": "MangaDot",
+            "language": "fa",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 516446519459282312,
+            "name": "MangaDot",
+            "language": "pl",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1374245104599191336,
+            "name": "MangaDot",
+            "language": "pt",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6883842335519142390,
+            "name": "MangaDot",
+            "language": "pt-BR",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7223291528565862680,
+            "name": "MangaDot",
+            "language": "ro",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8911989140118399619,
+            "name": "MangaDot",
+            "language": "ru",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1356109540530417190,
+            "name": "MangaDot",
+            "language": "es",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5046796980408019790,
+            "name": "MangaDot",
+            "language": "es-419",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4958143963089747877,
+            "name": "MangaDot",
+            "language": "sv",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8348427309728988846,
+            "name": "MangaDot",
+            "language": "th",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5964430973280552505,
+            "name": "MangaDot",
+            "language": "tr",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3578850460057110410,
+            "name": "MangaDot",
+            "language": "uk",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3741155905873931805,
+            "name": "MangaDot",
+            "language": "vi",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2441838299826051230,
+            "name": "MangaDot",
+            "language": "zu",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7865090004429530491,
+            "name": "MangaDot",
+            "language": "zh-tw",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4921151708715305490,
+            "name": "MangaDot",
+            "language": "yo",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5601626490491985162,
+            "name": "MangaDot",
+            "language": "uz",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7589823463254376799,
+            "name": "MangaDot",
+            "language": "ur",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8728081113036876931,
+            "name": "MangaDot",
+            "language": "tk",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5231909047029777422,
+            "name": "MangaDot",
+            "language": "to",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2687394203984331406,
+            "name": "MangaDot",
+            "language": "ti",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8979608222684527323,
+            "name": "MangaDot",
+            "language": "te",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1532736845269879240,
+            "name": "MangaDot",
+            "language": "ta",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3300379104794255539,
+            "name": "MangaDot",
+            "language": "tg",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 9084839605166631973,
+            "name": "MangaDot",
+            "language": "ss",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5128179410899824788,
+            "name": "MangaDot",
+            "language": "sw",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3424023259825994677,
+            "name": "MangaDot",
+            "language": "so",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4524523410546767783,
+            "name": "MangaDot",
+            "language": "sl",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 906841171861851373,
+            "name": "MangaDot",
+            "language": "sk",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5151209771353483688,
+            "name": "MangaDot",
+            "language": "si",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4791489272679823459,
+            "name": "MangaDot",
+            "language": "sd",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 667651300545386994,
+            "name": "MangaDot",
+            "language": "sn",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1437553406755071980,
+            "name": "MangaDot",
+            "language": "st",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5247335489585035333,
+            "name": "MangaDot",
+            "language": "sh",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2958846473073557482,
+            "name": "MangaDot",
+            "language": "sr",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6438885774622850088,
+            "name": "MangaDot",
+            "language": "sm",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7682832424883392487,
+            "name": "MangaDot",
+            "language": "rm",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 852113960420602047,
+            "name": "MangaDot",
+            "language": "ps",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5594683159745082451,
+            "name": "MangaDot",
+            "language": "ny",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1388001857060182903,
+            "name": "MangaDot",
+            "language": "ne",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4385496560007026082,
+            "name": "MangaDot",
+            "language": "mo",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2403752440512665902,
+            "name": "MangaDot",
+            "language": "mr",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1243113298307153697,
+            "name": "MangaDot",
+            "language": "mi",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 763520574319176694,
+            "name": "MangaDot",
+            "language": "mt",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2065097680931770063,
+            "name": "MangaDot",
+            "language": "ml",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3095899732404101103,
+            "name": "MangaDot",
+            "language": "mg",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3378671539429193821,
+            "name": "MangaDot",
+            "language": "mk",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7371980305504255093,
+            "name": "MangaDot",
+            "language": "lb",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6496021153361901915,
+            "name": "MangaDot",
+            "language": "lv",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2817234851765014214,
+            "name": "MangaDot",
+            "language": "lo",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6432074668689969261,
+            "name": "MangaDot",
+            "language": "ky",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 642272481774520917,
+            "name": "MangaDot",
+            "language": "ku",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3501653098098324330,
+            "name": "MangaDot",
+            "language": "kk",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 735891950196570992,
+            "name": "MangaDot",
+            "language": "kn",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2450590764399511282,
+            "name": "MangaDot",
+            "language": "jv",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1990999442874191049,
+            "name": "MangaDot",
+            "language": "ga",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1212617635525738382,
+            "name": "MangaDot",
+            "language": "ig",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7457818185508918624,
+            "name": "MangaDot",
+            "language": "is",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7370016116750489216,
+            "name": "MangaDot",
+            "language": "ha",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4906990011623468194,
+            "name": "MangaDot",
+            "language": "ht",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7777361906352556467,
+            "name": "MangaDot",
+            "language": "gu",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2649563537157849825,
+            "name": "MangaDot",
+            "language": "gn",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 9161576604389142963,
+            "name": "MangaDot",
+            "language": "gl",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 403504858442756278,
+            "name": "MangaDot",
+            "language": "fo",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7085366320872721673,
+            "name": "MangaDot",
+            "language": "et",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3900938574086240284,
+            "name": "MangaDot",
+            "language": "eo",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6919139667129890361,
+            "name": "MangaDot",
+            "language": "hr",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 466560170889971500,
+            "name": "MangaDot",
+            "language": "cv",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1104434747623062236,
+            "name": "MangaDot",
+            "language": "ceb",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4126429070202050423,
+            "name": "MangaDot",
+            "language": "ca",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6558905765171140287,
+            "name": "MangaDot",
+            "language": "km",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2106727426891515868,
+            "name": "MangaDot",
+            "language": "bs",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6349207918477337222,
+            "name": "MangaDot",
+            "language": "be",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2365190675047124388,
+            "name": "MangaDot",
+            "language": "eu",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8740468699151734392,
+            "name": "MangaDot",
+            "language": "az",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3389751853142685462,
+            "name": "MangaDot",
+            "language": "hy",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1214640310680383515,
+            "name": "MangaDot",
+            "language": "am",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5004953853361383266,
+            "name": "MangaDot",
+            "language": "sq",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 626361877295636066,
+            "name": "MangaDot",
+            "language": "af",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          },
+          {
+            "id": 4735885360393755385,
+            "name": "MangaDot",
+            "language": "ab",
+            "homeUrl": "https://mangadot.net",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaFire",
+        "packageName": "eu.kanade.tachiyomi.extension.all.mangafire",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.mangafire-v1.6.38.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.mangafire.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106038,
+        "versionName": "1.6.38",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 6084907896154116083,
+            "name": "MangaFire",
+            "language": "en",
+            "homeUrl": "https://mangafire.to",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8098539940032331958,
+            "name": "MangaFire",
+            "language": "es",
+            "homeUrl": "https://mangafire.to",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3849324770075062403,
+            "name": "MangaFire",
+            "language": "es-419",
+            "homeUrl": "https://mangafire.to",
+            "mirrorUrls": []
+          },
+          {
+            "id": 6228021941803932286,
+            "name": "MangaFire",
+            "language": "fr",
+            "homeUrl": "https://mangafire.to",
+            "mirrorUrls": []
+          },
+          {
+            "id": 524110931382140732,
+            "name": "MangaFire",
+            "language": "ja",
+            "homeUrl": "https://mangafire.to",
+            "mirrorUrls": []
+          },
+          {
+            "id": 758400875161895515,
+            "name": "MangaFire",
+            "language": "pt",
+            "homeUrl": "https://mangafire.to",
+            "mirrorUrls": []
+          },
+          {
+            "id": 7842137233968841729,
+            "name": "MangaFire",
+            "language": "pt-BR",
+            "homeUrl": "https://mangafire.to",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "OniSaga",
+        "packageName": "eu.kanade.tachiyomi.extension.all.onisaga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.onisaga-v1.6.6.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.onisaga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106006,
+        "versionName": "1.6.6",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 8616495687402045560,
+            "name": "OniSaga",
+            "language": "all",
+            "homeUrl": "https://onisaga.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2644848669022862951,
+            "name": "OniSaga",
+            "language": "en",
+            "homeUrl": "https://onisaga.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5431409047697637162,
+            "name": "OniSaga",
+            "language": "fr",
+            "homeUrl": "https://onisaga.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5205171098698400162,
+            "name": "OniSaga",
+            "language": "ja",
+            "homeUrl": "https://onisaga.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5348722599884573141,
+            "name": "OniSaga",
+            "language": "pt-BR",
+            "homeUrl": "https://onisaga.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3793216737618759530,
+            "name": "OniSaga",
+            "language": "pt",
+            "homeUrl": "https://onisaga.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 5869426157802671832,
+            "name": "OniSaga",
+            "language": "es-419",
+            "homeUrl": "https://onisaga.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 9030342464252097773,
+            "name": "OniSaga",
+            "language": "es",
+            "homeUrl": "https://onisaga.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Webtoons.com",
+        "packageName": "eu.kanade.tachiyomi.extension.all.webtoons",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.webtoons-v1.6.5.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.webtoons.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106005,
+        "versionName": "1.6.5",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 2522335540328470744,
+            "name": "Webtoons.com",
+            "language": "en",
+            "homeUrl": "https://www.webtoons.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8749627068478740298,
+            "name": "Webtoons.com",
+            "language": "id",
+            "homeUrl": "https://www.webtoons.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 3330861233813615504,
+            "name": "Webtoons.com",
+            "language": "th",
+            "homeUrl": "https://www.webtoons.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8664735734660636295,
+            "name": "Webtoons.com",
+            "language": "es",
+            "homeUrl": "https://www.webtoons.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 8251758253314457060,
+            "name": "Webtoons.com",
+            "language": "fr",
+            "homeUrl": "https://www.webtoons.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 2959982438613576472,
+            "name": "Webtoons.com",
+            "language": "zh-Hant",
+            "homeUrl": "https://www.webtoons.com",
+            "mirrorUrls": []
+          },
+          {
+            "id": 1486822823904297379,
+            "name": "Webtoons.com",
+            "language": "de",
+            "homeUrl": "https://www.webtoons.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "XCOMIC",
+        "packageName": "eu.kanade.tachiyomi.extension.all.xcomic",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.xcomic-v1.6.11.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.xcomic.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106011,
+        "versionName": "1.6.11",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 7503768123990313103,
+            "name": "XCOMIC",
+            "language": "all",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 1951931397842101209,
+            "name": "XCOMIC",
+            "language": "en",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2216072015554312879,
+            "name": "XCOMIC",
+            "language": "fr",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 572420542053895720,
+            "name": "XCOMIC",
+            "language": "es",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 6439485858797526203,
+            "name": "XCOMIC",
+            "language": "es-419",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 8533093209370387548,
+            "name": "XCOMIC",
+            "language": "pt",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 1660243857802336382,
+            "name": "XCOMIC",
+            "language": "pt-BR",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 8216866031691391623,
+            "name": "XCOMIC",
+            "language": "ja",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 6880113725177268823,
+            "name": "XCOMIC",
+            "language": "ko",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2745995474917358674,
+            "name": "XCOMIC",
+            "language": "zh",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 7613068814739763778,
+            "name": "XCOMIC",
+            "language": "zh-Hant",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 6988172276198305441,
+            "name": "XCOMIC",
+            "language": "ru",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 3342417417593468107,
+            "name": "XCOMIC",
+            "language": "id",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 5728564989597951801,
+            "name": "XCOMIC",
+            "language": "af",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 5553485924656356372,
+            "name": "XCOMIC",
+            "language": "sq",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 1056878809650357054,
+            "name": "XCOMIC",
+            "language": "ar",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 5327289751828743191,
+            "name": "XCOMIC",
+            "language": "az",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 7523608306021299096,
+            "name": "XCOMIC",
+            "language": "be",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 6254472971589097316,
+            "name": "XCOMIC",
+            "language": "bn",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2273537187174793317,
+            "name": "XCOMIC",
+            "language": "bg",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 4724913414181893079,
+            "name": "XCOMIC",
+            "language": "my",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 7688084400938949137,
+            "name": "XCOMIC",
+            "language": "km",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 1397059280149027571,
+            "name": "XCOMIC",
+            "language": "ca",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 6682070255174061291,
+            "name": "XCOMIC",
+            "language": "ceb",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2613927518629217319,
+            "name": "XCOMIC",
+            "language": "hr",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 4176156175816655300,
+            "name": "XCOMIC",
+            "language": "cs",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 7194363928743278896,
+            "name": "XCOMIC",
+            "language": "cv",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 4542123677259112068,
+            "name": "XCOMIC",
+            "language": "da",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 5159790660090858526,
+            "name": "XCOMIC",
+            "language": "nl",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 4237179401763840936,
+            "name": "XCOMIC",
+            "language": "et",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2125420972287630427,
+            "name": "XCOMIC",
+            "language": "eo",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 8171598833682246858,
+            "name": "XCOMIC",
+            "language": "eu",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 5444937582138684030,
+            "name": "XCOMIC",
+            "language": "fil",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 4278174372753762939,
+            "name": "XCOMIC",
+            "language": "fi",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 1259989312146662534,
+            "name": "XCOMIC",
+            "language": "ka",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 780073044470059268,
+            "name": "XCOMIC",
+            "language": "de",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2610384477305802087,
+            "name": "XCOMIC",
+            "language": "el",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 1260385570722906246,
+            "name": "XCOMIC",
+            "language": "gu",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 1981608347047307401,
+            "name": "XCOMIC",
+            "language": "he",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 3943603818795183482,
+            "name": "XCOMIC",
+            "language": "hi",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 1768336766100079834,
+            "name": "XCOMIC",
+            "language": "hu",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 8671928911161063890,
+            "name": "XCOMIC",
+            "language": "is",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 6247109808466815737,
+            "name": "XCOMIC",
+            "language": "ga",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 39492592969752036,
+            "name": "XCOMIC",
+            "language": "gl",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 7006606499227655211,
+            "name": "XCOMIC",
+            "language": "it",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 9103598443106676547,
+            "name": "XCOMIC",
+            "language": "jv",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 5662825458844463537,
+            "name": "XCOMIC",
+            "language": "kk",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 5513250945759736859,
+            "name": "XCOMIC",
+            "language": "la",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 5873548813612603937,
+            "name": "XCOMIC",
+            "language": "lv",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 7669766997961625074,
+            "name": "XCOMIC",
+            "language": "lt",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 7225841250679865793,
+            "name": "XCOMIC",
+            "language": "ms",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 9161882230332210842,
+            "name": "XCOMIC",
+            "language": "ml",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 8815142912334455952,
+            "name": "XCOMIC",
+            "language": "mr",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2785458817444909955,
+            "name": "XCOMIC",
+            "language": "mo",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2969083037541457169,
+            "name": "XCOMIC",
+            "language": "mn",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 7708594112065781714,
+            "name": "XCOMIC",
+            "language": "ne",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2990284342797257304,
+            "name": "XCOMIC",
+            "language": "no",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 771703135489548626,
+            "name": "XCOMIC",
+            "language": "fa",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 847318645250524482,
+            "name": "XCOMIC",
+            "language": "pl",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 4676314052275465233,
+            "name": "XCOMIC",
+            "language": "ro",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 3866187795273682124,
+            "name": "XCOMIC",
+            "language": "sr",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2763632522440069842,
+            "name": "XCOMIC",
+            "language": "sh",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2334798442696489929,
+            "name": "XCOMIC",
+            "language": "ss",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 837476130197093292,
+            "name": "XCOMIC",
+            "language": "si",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2930316817181494078,
+            "name": "XCOMIC",
+            "language": "sk",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 340134905673471737,
+            "name": "XCOMIC",
+            "language": "sl",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 5793474496376459492,
+            "name": "XCOMIC",
+            "language": "sv",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 5554000687864573164,
+            "name": "XCOMIC",
+            "language": "ta",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 3308329928237254709,
+            "name": "XCOMIC",
+            "language": "te",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 6507587179337765602,
+            "name": "XCOMIC",
+            "language": "th",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 6593451456647607548,
+            "name": "XCOMIC",
+            "language": "tr",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2213301583269440589,
+            "name": "XCOMIC",
+            "language": "uk",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 1367173742044652281,
+            "name": "XCOMIC",
+            "language": "ur",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2649592580793982649,
+            "name": "XCOMIC",
+            "language": "uz",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 4245057044546585936,
+            "name": "XCOMIC",
+            "language": "vi",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 7623598553676151454,
+            "name": "XCOMIC",
+            "language": "zu",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          },
+          {
+            "id": 2042352429095291511,
+            "name": "XCOMIC",
+            "language": "other",
+            "homeUrl": "https://xcomic.me",
+            "mirrorUrls": [
+              "https://xcomic.me",
+              "https://xcomic.net",
+              "https://comik.to",
+              "https://yona.to"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "AllManga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.allanime",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.allanime-v1.6.32.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.allanime.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106032,
+        "versionName": "1.6.32",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 4709139914729853090,
+            "name": "AllManga",
+            "language": "en",
+            "homeUrl": "https://mkissa.to",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Asura Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.asurascans",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.asurascans-v1.6.72.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.asurascans.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106072,
+        "versionName": "1.6.72",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 6247824327199706550,
+            "name": "Asura Scans",
+            "language": "en",
+            "homeUrl": "https://asurascans.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Atsumaru",
+        "packageName": "eu.kanade.tachiyomi.extension.en.atsumaru",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.atsumaru-v1.6.27.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.atsumaru.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106027,
+        "versionName": "1.6.27",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 2327480808438768017,
+            "name": "Atsumaru",
+            "language": "en",
+            "homeUrl": "https://atsu.moe",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Chikari",
+        "packageName": "eu.kanade.tachiyomi.extension.en.chikari",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.chikari-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.chikari.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 8528134465693373218,
+            "name": "Chikari",
+            "language": "en",
+            "homeUrl": "https://chikari.moe",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Comix",
+        "packageName": "eu.kanade.tachiyomi.extension.en.comix",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.comix-v1.6.65.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.comix.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106065,
+        "versionName": "1.6.65",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 7537715367149829912,
+            "name": "Comix",
+            "language": "en",
+            "homeUrl": "https://comix.to",
+            "mirrorUrls": [
+              "https://comix.to",
+              "https://comix.ws"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Flame Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.en.flamecomics",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.flamecomics-v1.6.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.flamecomics.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106003,
+        "versionName": "1.6.3",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 8531542650987673943,
+            "name": "Flame Comics",
+            "language": "en",
+            "homeUrl": "https://flamecomics.xyz",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "KuraManga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.kuramanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.kuramanga-v1.6.4.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.kuramanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106004,
+        "versionName": "1.6.4",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 7076475127850729187,
+            "name": "KuraManga",
+            "language": "en",
+            "homeUrl": "https://kuramanga.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaK",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangabuddy",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangabuddy-v1.6.39.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangabuddy.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106039,
+        "versionName": "1.6.39",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5020395055978987501,
+            "name": "MangaK",
+            "language": "en",
+            "homeUrl": "https://mangak.io",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "MangaTaro",
+        "packageName": "eu.kanade.tachiyomi.extension.all.mangataro",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-all.mangataro-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.all.mangataro.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 8358097306709528603,
+            "name": "MangaTaro",
+            "language": "en",
+            "homeUrl": "https://mangataro.org",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "ManhuaPlus.top",
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhuaplustop",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.manhuaplustop-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.manhuaplustop.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": 8481144117764948107,
+            "name": "ManhuaPlus.top",
+            "language": "en",
+            "homeUrl": "https://manhuaplus.top",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Manhwatop",
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhwatop",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.manhwatop-v1.6.62.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.manhwatop.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106062,
+        "versionName": "1.6.62",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5177484976652938680,
+            "name": "Manhwatop",
+            "language": "en",
+            "homeUrl": "https://manhwatop.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Toon18x",
+        "packageName": "eu.kanade.tachiyomi.extension.en.toon18x",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.toon18x-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.toon18x.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "NSFW",
+        "sources": [
+          {
+            "id": 3587641859604485195,
+            "name": "Toon18x",
+            "language": "en",
+            "homeUrl": "https://toon18x.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Toonkotsu",
+        "packageName": "eu.kanade.tachiyomi.extension.en.toonkotsu",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.toonkotsu-v1.6.6.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.toonkotsu.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106006,
+        "versionName": "1.6.6",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 3504033188132514684,
+            "name": "Toonkotsu",
+            "language": "en",
+            "homeUrl": "https://toonkotsu.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "WebtoonClub",
+        "packageName": "eu.kanade.tachiyomi.extension.en.webtoonclub",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.webtoonclub-v1.6.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.webtoonclub.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106003,
+        "versionName": "1.6.3",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 5827665338810887442,
+            "name": "WebtoonClub",
+            "language": "en",
+            "homeUrl": "https://webtoonclub.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
+        "name": "Weeb Central",
+        "packageName": "eu.kanade.tachiyomi.extension.en.weebcentral",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.weebcentral-v1.6.27.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.weebcentral.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106027,
+        "versionName": "1.6.27",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 2131019126180322627,
+            "name": "Weeb Central",
+            "language": "en",
+            "homeUrl": "https://weebcentral.com",
+            "mirrorUrls": []
+          }
+        ]
+      }
+    ]
+  }
+}
