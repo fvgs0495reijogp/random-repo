@@ -3582,12 +3582,12 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.comix-v1.6.65.apk",
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.comix-v1.6.66.apk",
           "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.comix.png"
         },
         "extensionLib": "1.6",
-        "versionCode": 106065,
-        "versionName": "1.6.65",
+        "versionCode": 106066,
+        "versionName": "1.6.66",
         "contentWarning": "MIXED",
         "sources": [
           {
