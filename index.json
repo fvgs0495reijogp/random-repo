@@ -4254,6 +4254,27 @@
         ]
       },
       {
+        "name": "MangaGoku",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangagoku",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/apk/tachiyomi-en.mangagoku-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/fvgs0495reijogp/random-repo/main/icon/eu.kanade.tachiyomi.extension.en.mangagoku.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "MIXED",
+        "sources": [
+          {
+            "id": 8821297132723982231,
+            "name": "MangaGoku",
+            "language": "en",
+            "homeUrl": "https://www.mangagoku.com",
+            "mirrorUrls": []
+          }
+        ]
+      },
+      {
         "name": "MangaHome",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangahome",
         "resources": {

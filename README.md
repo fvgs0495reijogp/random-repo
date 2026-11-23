@@ -59,6 +59,7 @@
 | MangaGeko | en | https://www.mgeko.cc | Mixed |
 | MangaGG | en | https://mangagg.com | Mixed |
 | Mangago | en | https://www.mangago.me | Mixed |
+| MangaGoku | en | https://www.mangagoku.com | Mixed |
 | MangaHome | en | https://www.mangahome.com | Mixed |
 | MangaHub | en | https://mangahub.io | Mixed |
 | MangaK | en | https://mangak.io | Mixed |
